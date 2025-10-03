@@ -1,0 +1,20 @@
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+div {
+    width: 260px;
+    height: 750px;
+    border: 2px double rgb(48, 48, 97);
+    padding: 50px;
+    margin: 25px;
+    background-color: rgb(179, 139, 110);
+    text-align: center;
+    text-align: left;
+    color: rgb(66, 41, 9);
+    border-radius: 30px;
+}
+fieldset {
+    color: (66, 41, 9)white;
+    border-radius: 30px;
+}
